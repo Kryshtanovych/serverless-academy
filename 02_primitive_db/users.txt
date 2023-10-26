@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Max",
+    "gender": "Male",
+    "age": 25
+  },
+  {
+    "name": "Maria",
+    "gender": "Female",
+    "age": 25
+  },
+  {
+    "name": "Bogdan",
+    "gender": "Male",
+    "age": 54
+  }
+]
