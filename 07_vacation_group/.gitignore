@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# User-specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore built files for your JavaScript and CSS
+dist/
+build/
+*.min.js
+
+# Optionally, ignore any configuration files with sensitive information
+config.js
